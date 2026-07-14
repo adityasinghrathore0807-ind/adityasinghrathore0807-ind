@@ -1,8 +1,11 @@
+<!-- ===================================================== -->
+<!--                 AI ENGINEER GITHUB PROFILE             -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Aditya Singh Rathore
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aditya%20Singh%20Rathore&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=58"/>
 
-### 🚀 AI Engineer Aspirant • Machine Learning Enthusiast • Future AI Startup Founder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+Projects;Machine+Learning+Explorer;Future+AI+Startup+Founder;Always+Learning+Something+New"/>
 
@@ -164,15 +167,6 @@ FastAPI
 
 ---
 
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityasinghrathore0807-ind&theme=tokyonight&row=1&column=6"/>
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
@@ -235,7 +229,7 @@ https://linkedin.com/in/aditya-singh-rathore-823089379
 
 📧 Email
 
-adityasinghrbl@gmail.com
+adityasinghrbl07@gmail.com
 
 🌐 Portfolio
 
