@@ -1,15 +1,20 @@
+<!-- ===================================================== -->
+<!--                 AI ENGINEER GITHUB PROFILE             -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aditya%20Singh%20Rathore&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Specialization%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aditya%20Singh%20Rathore&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Specialization;Building+Machine+Learning+Projects;Exploring+Deep+Learning+%26+GenAI;Turning+Data+Into+Intelligent+Systems;Future+AI+Engineer+%7C+Builder+%7C+Founder"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI+Projects;Machine+Learning+Explorer;Future+AI+Startup+Founder;Always+Learning+Something+New"/>
 
 <p>
 <a href="https://linkedin.com/in/aditya-singh-rathore-823089379">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:adityasinghrbl07@gmail.com">
+<a href="mailto:yourmail@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -20,290 +25,113 @@
 <a href="https://github.com/adityasinghrathore0807-ind">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
 </p>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 💫 About Me
 
 ```yaml
 Name: Aditya Singh Rathore
 
-Specialization: Artificial Intelligence & Machine Learning
+Role: AI Engineer Aspirant
 
 Education:
   B.Tech
 
-Primary Focus:
-  Machine Learning
-  Deep Learning
-  Generative AI
-  Natural Language Processing
-  Computer Vision
-  Data Science
-
-Currently Learning:
+Current Focus:
   Python
-  Data Structures & Algorithms
-  Mathematics for ML
+  DSA
   Machine Learning
   Deep Learning
   Generative AI
 
-Building:
-  AI/ML Projects
-  Intelligent Applications
-  LLM-powered Systems
-  AI-powered Products
+Goal:
+  Build AI Products
+  Launch an AI Startup
+  Become an AI Engineer
 
-Career Goal:
-  Become an AI/ML Engineer
-  Build Production AI Systems
-  Launch AI Products & Startups
+Learning:
+  Python
+  React
+  Node.js
+  AI/ML
 ```
 
 ---
 
-# 🧠 AI & Machine Learning
+# 🧠 Tech Stack
 
-My primary area of specialization is **Artificial Intelligence and Machine Learning**, with a focus on understanding the fundamentals and building practical AI systems.
-
-### 🤖 Machine Learning
+## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
 
-```text
-NumPy
-Pandas
-Scikit-Learn
-Matplotlib
-Data Preprocessing
-Exploratory Data Analysis
-Feature Engineering
-Regression
-Classification
-Clustering
-Model Evaluation
-```
-
-### 🧠 Deep Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-</p>
-
-```text
-Neural Networks
-CNNs
-Deep Learning Fundamentals
-Computer Vision
-Model Training
-Model Evaluation
-```
-
-### ✨ Generative AI
-
-```text
-Large Language Models
-Prompt Engineering
-Retrieval-Augmented Generation (RAG)
-Embeddings
-Vector Databases
-AI Agents
-LLM Applications
-LangChain
-Generative AI APIs
-```
-
-### 👁️ Computer Vision
-
-```text
-OpenCV
-Image Processing
-Computer Vision Fundamentals
-CNN-based Applications
-```
-
-### ⚡ AI Application Development
-
-```text
-FastAPI
-Python
-LangChain
-REST APIs
-AI/ML Model Deployment
-Docker
-```
-
----
-
-# 💻 Programming
-
-<p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts"/>
+
 </p>
-
-### Primary Language
-
-🐍 **Python**
-
-My main programming language for:
-
-* Machine Learning
-* Data Science
-* Deep Learning
-* Generative AI
-* Automation
-* AI application development
-
-### Other Languages
-
-```text
-C
-C++
-Java
-JavaScript
-TypeScript
-```
 
 ---
 
-# 📊 Data & Databases
+## 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+
 </p>
 
-```text
-SQL
-MySQL
-MongoDB
-SQLite
-Pandas
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
+
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+```
 NumPy
-Data Analysis
-```
-
----
-
-# 🌐 AI Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,docker,linux,git,github"/>
-</p>
-
-```text
-FastAPI
-Docker
-Git
-GitHub
-Linux
-REST APIs
-Model Deployment
-AI Backend Development
-```
-
----
-
-# 🌱 Supporting Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind"/>
-</p>
-
-I also explore web technologies to build interfaces and backend systems around AI/ML applications.
-
-```text
-React
-Node.js
-Express.js
-HTML
-CSS
-Tailwind CSS
-Firebase
-```
-
----
-
-# 🚀 Featured AI/ML Projects
-
-| Project                   | Description                                  | Area                 |
-| ------------------------- | -------------------------------------------- | -------------------- |
-| 🤖 AI Resume Analyzer     | AI-powered resume analysis system            | NLP / GenAI          |
-| 💬 AI Chatbot             | LLM-powered conversational application       | Generative AI        |
-| 📄 PDF Chatbot            | Ask questions about documents using AI       | RAG / GenAI          |
-| 🏠 House Price Prediction | Predict housing prices using ML              | Machine Learning     |
-| 🎬 Movie Recommendation   | Personalized recommendation system           | ML / Recommendation  |
-| 🧠 Python Foundation      | Python learning & problem-solving repository | Python / DSA         |
-| 📱 Ryvian                 | Community-driven social platform             | Full-Stack / Product |
-
----
-
-# 🧩 AI/ML Learning Roadmap
-
-```text
-Python
-   ↓
-Mathematics for Machine Learning
-   ↓
-NumPy + Pandas + Data Analysis
-   ↓
-Machine Learning
-   ↓
+Pandas
 Scikit-Learn
-   ↓
-Deep Learning
-   ↓
-PyTorch / TensorFlow
-   ↓
-Computer Vision + NLP
-   ↓
-Generative AI
-   ↓
-LLMs + RAG + AI Agents
-   ↓
-MLOps + Deployment
-   ↓
-Production AI Systems
+OpenCV
+Matplotlib
+LangChain
+FastAPI
 ```
-
-### Current Progress
-
-* ✅ Python Fundamentals
-* 🔄 Data Structures & Algorithms
-* 🔄 SQL
-* 🔄 Mathematics for ML
-* 🔄 Machine Learning
-* ⏳ Deep Learning
-* ⏳ Computer Vision
-* ⏳ NLP
-* ⏳ Generative AI
-* ⏳ RAG & AI Agents
-* ⏳ FastAPI
-* ⏳ Docker
-* ⏳ Cloud & MLOps
 
 ---
 
-# 🎯 2026 AI/ML Goals
+## 🗄 Database
 
-* 🚀 Strengthen Python
-* 🧠 Build strong Mathematics foundations for AI/ML
-* 🤖 Master Machine Learning fundamentals
-* 🔥 Learn Deep Learning with PyTorch
-* 👁️ Explore Computer Vision
-* 💬 Learn NLP and LLMs
-* ✨ Build Generative AI applications
-* 📄 Build RAG-based applications
-* ⚡ Learn AI model deployment
-* 🐳 Learn Docker & MLOps
-* 🌐 Build an AI-focused portfolio
-* 💡 Build an AI startup MVP
-* 💼 Gain practical AI/ML experience
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma"/>
+
+</p>
 
 ---
 
@@ -339,42 +167,56 @@ Production AI Systems
 
 ---
 
-# 🧪 What I'm Building
 
-```text
-🤖 Machine Learning Models
-🧠 Deep Learning Systems
-✨ Generative AI Applications
-📄 RAG Applications
-💬 LLM-powered Chatbots
-👁️ Computer Vision Projects
-📊 Data-driven Applications
-⚡ AI APIs & Backend Systems
-🚀 AI Product Ideas
-```
+# 🚀 Featured Projects
 
----
-
-# 💡 My AI/ML Philosophy
-
-> Learn the fundamentals.
->
-> Build real projects.
->
-> Understand the mathematics.
->
-> Experiment with new AI technologies.
->
-> Turn ideas into useful products.
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Resume Analyzer | AI-powered resume analysis |
+| 📱 Ryvian | Community-driven social media platform |
+| 🧠 Python Foundation | Python concepts and practice |
+| 💬 AI Chatbot | LLM-powered chatbot |
+| 📄 PDF Chatbot | Chat with PDF documents |
+| 🏠 House Price Prediction | Machine Learning Regression |
+| 🎬 Movie Recommendation | Recommendation System |
 
 ---
 
-# 📂 Current Repositories
+# 📚 Learning Roadmap
+
+- ✅ Python
+- ✅ Git & GitHub
+- 🔄 Data Structures & Algorithms
+- 🔄 SQL
+- 🔄 Machine Learning
+- ⏳ Deep Learning
+- ⏳ Generative AI
+- ⏳ FastAPI
+- ⏳ Docker
+- ⏳ AWS
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Master Python
+- 📚 Solve 500+ DSA Problems
+- 🤖 Learn Machine Learning
+- 🧠 Learn Deep Learning
+- 💡 Learn Generative AI
+- 🌐 Build Portfolio Website
+- 📱 Build AI Startup MVP
+- 💼 Get an Internship
+
+---
+
+# 📂 Repositories
 
 ```text
 📦 python-foundation
 📦 resume-analyzer
 📦 ryvian
+
 ```
 
 ---
@@ -382,12 +224,15 @@ Production AI Systems
 # 📫 Connect With Me
 
 💼 LinkedIn
+
 https://linkedin.com/in/aditya-singh-rathore-823089379
 
 📧 Email
-[adityasinghrbl07@gmail.com](mailto:adityasinghrbl07@gmail.com)
+
+adityasinghrbl07@gmail.com
 
 🌐 Portfolio
+
 Coming Soon 🚀
 
 ---
@@ -398,11 +243,15 @@ Coming Soon 🚀
 
 <img src="https://komarev.com/ghpvc/?username=adityasinghrathore0807-ind&style=for-the-badge&color=blue"/>
 
+</div>
+
 ---
 
-### 🧠 AI • ML • Build • Learn • Repeat
+<div align="center">
 
-**"Dream Big. Build Bigger. Learn Every Day."**
+## 💡 Quote
+
+> **"Dream Big. Build Bigger. Learn Every Day."**
 
 ⭐ Thanks for visiting my profile!
 
